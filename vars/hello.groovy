@@ -1,3 +1,3 @@
 def call(String name) {
-  return UUID.randomUUID().toString().split('-').join('\n')
+  echo UUID.randomUUID().toString().split('-').join('\n')
 }
