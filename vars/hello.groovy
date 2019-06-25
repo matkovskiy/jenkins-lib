@@ -1,3 +1,3 @@
 def call(String name) {
-  return ["Hello ${name}"]
+  return "Hello ${name}"
 }
