@@ -1,3 +1,3 @@
 def call(String name) {
-  return '["adassa","adsad"]'
+  return '["$name","adsad"]'
 }
