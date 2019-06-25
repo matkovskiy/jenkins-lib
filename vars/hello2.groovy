@@ -1,4 +1,3 @@
-def call() {
-  echo ["Hello","lasdlsaldsa"]
+def call(String name) {
+  echo "Hello ${name}","Hello sadsads"
 }
-
